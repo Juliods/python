@@ -1,0 +1,8 @@
+print("Troca troca ( ͡° ͜ʖ ͡°)")
+print("V:1.0")
+print("Insira o valor x")
+y = float(input())
+print("Insira o valor y")
+x = float(input())
+print("Os valores trocados são X= %.2f e Y= %.2f" %(x, y)) 
+input("pressione enter para sair")

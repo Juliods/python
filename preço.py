@@ -1,0 +1,7 @@
+print("preço produto")
+a = int(input())
+print("insira a quantidade")
+b = int(input())
+c = (a * b)
+print("O total será igual a %d R$" % c)
+input("pressione enter para sair")

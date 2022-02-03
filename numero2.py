@@ -1,0 +1,7 @@
+print("numero2")
+print("V:1.0")
+print("digite um número")
+a = int(input())
+b = (a * a)
+print("O número ao quadrado é %d" %b)
+input("Pressione enter para sair")
