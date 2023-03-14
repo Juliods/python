@@ -1,1 +1,2 @@
-# Python é um local que eu fiz para deixar o meu código de python simples disponíveis.
+Este repositório serve para disponibilizar as aplicações básicas que fiz
+para estudar python e os princ
